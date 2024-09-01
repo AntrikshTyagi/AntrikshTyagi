@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AntrikshTyagi
-- 👀 I’m interested in Web Development!
-- 🌱 I’m currently learning React and VueJS
-- 💞️ I’m looking to collaborate on any project regarding web development
+- 👀 I’m interested in Web Development and Linux!
+- 🌱 I’m currently working on ReactJS(MERN) and WebSockets
+- 💞️ I’m willing to collaborate on any project regarding web development and Linux Support/Testing
 - 📫 Drop a message to work together!
